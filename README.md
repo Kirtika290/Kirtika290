@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="your-banner-image-url" alt="Banner Image" />
+  <img src="https://github.com/Kirtika290/Kirtika290/blob/main/git%20banner.jpg" alt="Banner Image" width="1200px" height="600px" />
 </h1>
+
 
 <h1 align="center">Hi 👋, I'm Kirtika</h1>
 
